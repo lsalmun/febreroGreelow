@@ -1,0 +1,15 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.carta {
+    padding: 120px;
+    width : 50%;
+    background : rgb(240, 239, 239);
+    text-align : center;
+    color: rgb(10, 7, 3);
+    display : block;
+    padding-bottom: 300px;
+}
